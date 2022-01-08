@@ -18,9 +18,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-021627?style=for-the-badge&logo=supabase&logoColor=24B47E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-021627?style=for-the-badge&logo=postgresql&logoColor=316192)
 
-**Infrastructure**  
-![404](https://img.shields.io/badge/404_NOT_FOUND-red?style=for-the-badge)
-
 **Ecosystem**  
 ![eslint](https://img.shields.io/badge/eslint-021627?style=for-the-badge&logo=eslint&logoColor=3A33D1)
 ![prettier](https://img.shields.io/badge/prettier-021627?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
